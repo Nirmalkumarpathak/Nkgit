@@ -1,0 +1,5 @@
+hi so we are in first level to learn about git and git hub so this is some command
+git add
+git inint
+git commit -m
+git status
