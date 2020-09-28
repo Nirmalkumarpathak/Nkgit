@@ -3,3 +3,6 @@ git add
 git inint
 git commit -m
 git status
+
+git config --global credential.helper cache
+for  save user info _ git always ask info so i tried to configure first
