@@ -4,5 +4,8 @@ git inint
 git commit -m
 git status
 
+
+first store it then cache 
+git config --global credential.helper store
 git config --global credential.helper cache
 for  save user info _ git always ask info so i tried to configure first
